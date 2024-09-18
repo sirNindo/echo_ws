@@ -1,5 +1,5 @@
-# R.O.O.K
-ROOK DROID'S workspace for [robotics dojo 2024](https://roboticsdojo.github.io/) competition. The dojo package is the main package , the articubot_one package is for reference and for any more info on how to work with this ros workspace refer to [Articulated Robotics Tutorial](https://articulatedrobotics.xyz/tutorials) , the sllidar_ros2 is for the lidar and the diffdrive_arduino is for hardware interface .
+# ECHO
+ECHO's workspace for [robotics dojo 2024](https://roboticsdojo.github.io/) competition. The dojo package is the main package , the articubot_one package is for reference and for any more info on how to work with this ros workspace refer to [Articulated Robotics Tutorial](https://articulatedrobotics.xyz/tutorials) , the sllidar_ros2 is for the lidar and the diffdrive_arduino is for hardware interface .
 
 
 > 📝 **Note**: FOR PROPER OPERATION IN THE PI CHECKOUT TO THE `pi` BRANCH. ALSO IF ISSUES ARE ECOUNTERED WHEN USING THE MAIN BRANCH ON YOUR PC/DEV MACHINE TRY OUT THE DEMO BRANCH
